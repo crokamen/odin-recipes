@@ -1,0 +1,22 @@
+h1,h4{
+    text-align: center;
+    background-color:darkgrey;
+
+}
+
+ul{
+    color: black;
+    padding: auto;
+}
+.img{
+    width: 20%;
+    height: auto;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+img{
+    width: 100%;
+}
+li{
+    padding: 10px;
+}
